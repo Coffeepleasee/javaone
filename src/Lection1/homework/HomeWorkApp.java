@@ -41,7 +41,7 @@ public class HomeWorkApp {
             System.out.println("Зеленый");
         }
         }
-    // Задание 4 - Вывод по условию сравнения
+    // Задание 4 - Вывод строки по условию сравнения
     public static void compareNumbers () {
         int a=-1, b=35;
         if (a>=b) {
